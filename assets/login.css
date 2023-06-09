@@ -1,0 +1,91 @@
+.main {
+    width: 100%;
+    height: 650px;
+    position: relative;
+  }
+  
+  .background {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  
+  .background__img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .form {
+    width: 370px;
+    height: 430px;
+    background-color: black;
+    opacity: 0.9;
+    position: absolute;
+    top: 100px;
+    left: 590px;
+  }
+  
+  .first {
+    width: 100%;
+    height: 133px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .first__img {
+    width: 62%;
+    height: 100%;
+  }
+  
+  .second {
+    width: 100%;
+    height: 70px;
+    padding: 0 20px;
+  }
+  
+  .second__user {
+    color: whitesmoke;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+  
+  .second__enter-user {
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+  }
+  
+  .third {
+    width: 100%;
+    height: 70px;
+    padding: 0 20px;
+  }
+  
+  .third__password {
+    color: whitesmoke;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+  
+  .third__enter-password {
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+  }
+  
+  .fourth {
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  .fourth__button {
+    color: whitesmoke;
+    font-size: 2.5rem;
+    padding: 8px 110px;
+    background-color: #80251b;
+  }

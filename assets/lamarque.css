@@ -1,0 +1,134 @@
+.lamarque__boder{
+    border-bottom: 2px solid #fff;
+}
+.home__banner-lamarque{
+    position: relative;
+    /* align-items: center; */
+
+}
+.header__title-lamarque{
+    margin-left: 120px;
+    color: #fff;
+}
+.banner__img-lamarque{
+    background-image: url(../assets/img/blockHeader/201013_CEREALBIO_S2_Eminces_159_0.png);
+    position: relative;
+    height: 310px;
+    background-repeat: no-repeat;
+    padding: 60px 0;
+    min-width: 1518px;
+    background-size: cover;
+}
+.content__lamarque-wrap{
+    width: 1519px;
+    height: 258px;
+    position: relative;
+    /* margin-bottom: 50px; */
+}
+.container__lamarque{
+    width: 900px;
+    height: 258px;
+    position: relative;
+    margin: 0 315px;
+}
+.container__lamarque-text h2{
+    font-style: italic;
+    font-size: 45px;
+    text-align: center;
+    padding: 25px;
+    margin: 0;
+    font-weight: 900;
+    color: #402d1a;
+}
+.container__lamarque-text  p{
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 32px;
+    font-weight: 900;
+    color: #402d1a;
+}
+.text_lamarque {
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 32px;
+    font-weight: 900;
+    color: #402d1a;
+}
+
+.container__lamarque-text  p{
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 32px;
+    color: #402d1a;
+    font-weight: bold
+}
+.banner__content-lamarque{
+    width: 1519px;
+    height: 1600px;
+    position: relative;
+    padding: 65px 0;
+}
+.content__lamarque-wrapbanner{
+    width: 1519px;
+    height: 453px;
+    position: relative;
+    margin-bottom: 60px;
+}
+.content_lamrque-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner__img{
+    width: 359px;
+    height: 453px;
+}
+.banner__img img{
+    width: 100%;
+    height: 100%;
+}
+.banner__content{
+    width: 722px;
+    height: 453px;
+    background-color: #fbe9ae;
+    padding: 60px 0;
+}
+.banner__content-1{
+    background-color: #d7e1ba;
+}
+.banner__content-2{
+    background-color: #edd6c7;
+}
+.banner__text{
+    text-align: center;
+}
+.text__h3{
+    font-size: 29px;
+    font-weight: bold;
+}
+.text__p{
+    font-size: 17px;
+    font-weight: 500;
+    padding: 0 100px;
+}
+.button__link-lamarque{
+    width: 271px;
+    height: 54px;
+    background-color: red;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 54px; 
+    margin-left: 214px;
+}
+.banner__link{
+    position: absolute;
+}
+.button__link-lamarque a{
+    text-decoration: none;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 900;
+}
